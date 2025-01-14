@@ -1,0 +1,2355 @@
+[1718462874.530652] [INFO]:
+round_1:
+    concurrency-covr: 60
+    concurrency-covr-up: 60
+
+[1718462943.974066] [INFO]:
+round_2:
+    concurrency-covr: 67
+    concurrency-covr-up: 7
+
+[1718462993.408579] [INFO]:
+round_3:
+    concurrency-covr: 67
+    concurrency-covr-up: 0
+
+[1718463040.637475] [INFO]:
+round_4:
+    concurrency-covr: 67
+    concurrency-covr-up: 0
+
+[1718463091.514031] [INFO]:
+round_5:
+    concurrency-covr: 82
+    concurrency-covr-up: 15
+
+[1718463145.036867] [INFO]:
+round_6:
+    concurrency-covr: 82
+    concurrency-covr-up: 0
+
+[1718463191.795039] [INFO]:
+round_7:
+    concurrency-covr: 82
+    concurrency-covr-up: 0
+
+[1718463267.939424] [INFO]:
+round_8:
+    concurrency-covr: 92
+    concurrency-covr-up: 10
+
+[1718463352.309572] [INFO]:
+round_9:
+    concurrency-covr: 92
+    concurrency-covr-up: 0
+
+[1718463397.35366] [INFO]:
+round_10:
+    concurrency-covr: 95
+    concurrency-covr-up: 3
+
+[1718463452.446707] [INFO]:
+round_11:
+    concurrency-covr: 97
+    concurrency-covr-up: 2
+
+[1718463503.482787] [INFO]:
+round_12:
+    concurrency-covr: 97
+    concurrency-covr-up: 0
+
+[1718463552.146541] [INFO]:
+round_13:
+    concurrency-covr: 105
+    concurrency-covr-up: 8
+
+[1718463690.942673] [INFO]:
+round_14:
+    concurrency-covr: 114
+    concurrency-covr-up: 9
+
+[1718463821.626583] [INFO]:
+round_15:
+    concurrency-covr: 114
+    concurrency-covr-up: 0
+
+[1718463867.720541] [INFO]:
+round_16:
+    concurrency-covr: 116
+    concurrency-covr-up: 2
+
+[1718463922.994148] [INFO]:
+round_17:
+    concurrency-covr: 116
+    concurrency-covr-up: 0
+
+[1718463970.520455] [INFO]:
+round_18:
+    concurrency-covr: 118
+    concurrency-covr-up: 2
+
+[1718464114.719878] [INFO]:
+round_19:
+    concurrency-covr: 118
+    concurrency-covr-up: 0
+
+[1718464161.180919] [INFO]:
+round_20:
+    concurrency-covr: 140
+    concurrency-covr-up: 22
+
+[1718464246.074685] [INFO]:
+round_21:
+    concurrency-covr: 158
+    concurrency-covr-up: 18
+
+[1718464381.652596] [INFO]:
+round_22:
+    concurrency-covr: 158
+    concurrency-covr-up: 0
+
+[1718464431.14793] [INFO]:
+round_23:
+    concurrency-covr: 158
+    concurrency-covr-up: 0
+
+[1718464478.922032] [INFO]:
+round_24:
+    concurrency-covr: 158
+    concurrency-covr-up: 0
+
+[1718464529.802479] [INFO]:
+round_25:
+    concurrency-covr: 158
+    concurrency-covr-up: 0
+
+[1718464579.273711] [INFO]:
+round_26:
+    concurrency-covr: 158
+    concurrency-covr-up: 0
+
+[1718464630.577924] [INFO]:
+round_27:
+    concurrency-covr: 158
+    concurrency-covr-up: 0
+
+[1718464722.905268] [INFO]:
+round_28:
+    concurrency-covr: 160
+    concurrency-covr-up: 2
+
+[1718464863.865832] [INFO]:
+round_29:
+    concurrency-covr: 160
+    concurrency-covr-up: 0
+
+[1718464914.214789] [INFO]:
+round_30:
+    concurrency-covr: 160
+    concurrency-covr-up: 0
+
+[1718464960.028046] [INFO]:
+round_31:
+    concurrency-covr: 160
+    concurrency-covr-up: 0
+
+[1718465013.180505] [INFO]:
+round_32:
+    concurrency-covr: 160
+    concurrency-covr-up: 0
+
+[1718465067.103504] [INFO]:
+round_33:
+    concurrency-covr: 160
+    concurrency-covr-up: 0
+
+[1718465117.967615] [INFO]:
+round_34:
+    concurrency-covr: 164
+    concurrency-covr-up: 4
+
+[1718465263.005909] [INFO]:
+round_35:
+    concurrency-covr: 164
+    concurrency-covr-up: 0
+
+[1718465309.53821] [INFO]:
+round_36:
+    concurrency-covr: 164
+    concurrency-covr-up: 0
+
+[1718465359.681846] [INFO]:
+round_37:
+    concurrency-covr: 164
+    concurrency-covr-up: 0
+
+[1718465507.789243] [INFO]:
+round_38:
+    concurrency-covr: 165
+    concurrency-covr-up: 1
+
+[1718465641.601717] [INFO]:
+round_39:
+    concurrency-covr: 165
+    concurrency-covr-up: 0
+
+[1718465687.812082] [INFO]:
+round_40:
+    concurrency-covr: 169
+    concurrency-covr-up: 4
+
+[1718465745.32678] [INFO]:
+round_41:
+    concurrency-covr: 169
+    concurrency-covr-up: 0
+
+[1718465888.587343] [INFO]:
+round_42:
+    concurrency-covr: 169
+    concurrency-covr-up: 0
+
+[1718465935.151644] [INFO]:
+round_43:
+    concurrency-covr: 170
+    concurrency-covr-up: 1
+
+[1718466082.510158] [INFO]:
+round_44:
+    concurrency-covr: 170
+    concurrency-covr-up: 0
+
+[1718466132.316359] [INFO]:
+round_45:
+    concurrency-covr: 170
+    concurrency-covr-up: 0
+
+[1718466180.730223] [INFO]:
+round_46:
+    concurrency-covr: 170
+    concurrency-covr-up: 0
+
+[1718466233.135973] [INFO]:
+round_47:
+    concurrency-covr: 170
+    concurrency-covr-up: 0
+
+[1718466291.848382] [INFO]:
+round_48:
+    concurrency-covr: 170
+    concurrency-covr-up: 0
+
+[1718466339.95388] [INFO]:
+round_49:
+    concurrency-covr: 174
+    concurrency-covr-up: 4
+
+[1718466397.021195] [INFO]:
+round_50:
+    concurrency-covr: 174
+    concurrency-covr-up: 0
+
+[1718466454.765574] [INFO]:
+round_51:
+    concurrency-covr: 174
+    concurrency-covr-up: 0
+
+[1718466503.61246] [INFO]:
+round_52:
+    concurrency-covr: 174
+    concurrency-covr-up: 0
+
+[1718466559.388911] [INFO]:
+round_53:
+    concurrency-covr: 174
+    concurrency-covr-up: 0
+
+[1718466607.982495] [INFO]:
+round_54:
+    concurrency-covr: 174
+    concurrency-covr-up: 0
+
+[1718466661.894732] [INFO]:
+round_55:
+    concurrency-covr: 174
+    concurrency-covr-up: 0
+
+[1718466716.097066] [INFO]:
+round_56:
+    concurrency-covr: 177
+    concurrency-covr-up: 3
+
+[1718466773.755746] [INFO]:
+round_57:
+    concurrency-covr: 177
+    concurrency-covr-up: 0
+
+[1718466826.276191] [INFO]:
+round_58:
+    concurrency-covr: 177
+    concurrency-covr-up: 0
+
+[1718466875.601997] [INFO]:
+round_59:
+    concurrency-covr: 177
+    concurrency-covr-up: 0
+
+[1718466928.320061] [INFO]:
+round_60:
+    concurrency-covr: 177
+    concurrency-covr-up: 0
+
+[1718466982.946784] [INFO]:
+round_61:
+    concurrency-covr: 177
+    concurrency-covr-up: 0
+
+[1718467034.69261] [INFO]:
+round_62:
+    concurrency-covr: 177
+    concurrency-covr-up: 0
+
+[1718467086.417551] [INFO]:
+round_63:
+    concurrency-covr: 177
+    concurrency-covr-up: 0
+
+[1718467139.611196] [INFO]:
+round_64:
+    concurrency-covr: 190
+    concurrency-covr-up: 13
+
+[1718467201.687915] [INFO]:
+round_65:
+    concurrency-covr: 190
+    concurrency-covr-up: 0
+
+[1718467249.448641] [INFO]:
+round_66:
+    concurrency-covr: 190
+    concurrency-covr-up: 0
+
+[1718467302.652094] [INFO]:
+round_67:
+    concurrency-covr: 191
+    concurrency-covr-up: 1
+
+[1718467368.556643] [INFO]:
+round_68:
+    concurrency-covr: 192
+    concurrency-covr-up: 1
+
+[1718467459.930288] [INFO]:
+round_69:
+    concurrency-covr: 195
+    concurrency-covr-up: 3
+
+[1718467634.111781] [INFO]:
+round_70:
+    concurrency-covr: 197
+    concurrency-covr-up: 2
+
+[1718467686.052422] [INFO]:
+round_71:
+    concurrency-covr: 198
+    concurrency-covr-up: 1
+
+[1718467852.939042] [INFO]:
+round_72:
+    concurrency-covr: 198
+    concurrency-covr-up: 0
+
+[1718467901.272225] [INFO]:
+round_73:
+    concurrency-covr: 198
+    concurrency-covr-up: 0
+
+[1718467948.370755] [INFO]:
+round_74:
+    concurrency-covr: 201
+    concurrency-covr-up: 3
+
+[1718468021.194306] [INFO]:
+round_75:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468109.275235] [INFO]:
+round_76:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468160.162333] [INFO]:
+round_77:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468209.262782] [INFO]:
+round_78:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468261.421848] [INFO]:
+round_79:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468308.792928] [INFO]:
+round_80:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468362.09757] [INFO]:
+round_81:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468421.438707] [INFO]:
+round_82:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468469.25551] [INFO]:
+round_83:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468566.60777] [INFO]:
+round_84:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468614.966959] [INFO]:
+round_85:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468668.389949] [INFO]:
+round_86:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468724.450992] [INFO]:
+round_87:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468808.889139] [INFO]:
+round_88:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468860.700159] [INFO]:
+round_89:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468908.898453] [INFO]:
+round_90:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718468963.799068] [INFO]:
+round_91:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718469025.536385] [INFO]:
+round_92:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718469184.331301] [INFO]:
+round_93:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718469232.290179] [INFO]:
+round_94:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718469291.115466] [INFO]:
+round_95:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718469343.652652] [INFO]:
+round_96:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718469400.694528] [INFO]:
+round_97:
+    concurrency-covr: 201
+    concurrency-covr-up: 0
+
+[1718469455.769725] [INFO]:
+round_98:
+    concurrency-covr: 202
+    concurrency-covr-up: 1
+
+[1718469630.57342] [INFO]:
+round_99:
+    concurrency-covr: 202
+    concurrency-covr-up: 0
+
+[1718469678.129969] [INFO]:
+round_100:
+    concurrency-covr: 202
+    concurrency-covr-up: 0
+
+[1718469770.906993] [INFO]:
+round_101:
+    concurrency-covr: 202
+    concurrency-covr-up: 0
+
+[1718518864.070372] [INFO]:
+round_102:
+    concurrency-covr: 202
+    concurrency-covr-up: 0
+
+[1718518913.953521] [INFO]:
+round_103:
+    concurrency-covr: 202
+    concurrency-covr-up: 0
+
+[1718518964.330513] [INFO]:
+round_104:
+    concurrency-covr: 202
+    concurrency-covr-up: 0
+
+[1718519016.054371] [INFO]:
+round_105:
+    concurrency-covr: 207
+    concurrency-covr-up: 5
+
+[1718519103.323224] [INFO]:
+round_106:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519183.222113] [INFO]:
+round_107:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519228.678472] [INFO]:
+round_108:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519280.463717] [INFO]:
+round_109:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519330.561262] [INFO]:
+round_110:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519381.505382] [INFO]:
+round_111:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519431.470556] [INFO]:
+round_112:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519484.492838] [INFO]:
+round_113:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519532.258252] [INFO]:
+round_114:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519582.642518] [INFO]:
+round_115:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519634.76043] [INFO]:
+round_116:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519686.160583] [INFO]:
+round_117:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519738.44178] [INFO]:
+round_118:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519790.492136] [INFO]:
+round_119:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519841.630355] [INFO]:
+round_120:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519895.081937] [INFO]:
+round_121:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718519942.846009] [INFO]:
+round_122:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520086.357728] [INFO]:
+round_123:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520132.667113] [INFO]:
+round_124:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520183.043663] [INFO]:
+round_125:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520234.299862] [INFO]:
+round_126:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520289.824033] [INFO]:
+round_127:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520434.161522] [INFO]:
+round_128:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520480.49835] [INFO]:
+round_129:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520534.018093] [INFO]:
+round_130:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520585.304139] [INFO]:
+round_131:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520735.480594] [INFO]:
+round_132:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520782.282228] [INFO]:
+round_133:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520833.024096] [INFO]:
+round_134:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520886.268732] [INFO]:
+round_135:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520938.519065] [INFO]:
+round_136:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718520985.127496] [INFO]:
+round_137:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521036.218144] [INFO]:
+round_138:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521087.614834] [INFO]:
+round_139:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521138.744303] [INFO]:
+round_140:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521195.933722] [INFO]:
+round_141:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521246.667194] [INFO]:
+round_142:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521296.271419] [INFO]:
+round_143:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521443.433339] [INFO]:
+round_144:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521492.842758] [INFO]:
+round_145:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521636.762191] [INFO]:
+round_146:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521683.966364] [INFO]:
+round_147:
+    concurrency-covr: 207
+    concurrency-covr-up: 0
+
+[1718521736.144345] [INFO]:
+round_148:
+    concurrency-covr: 211
+    concurrency-covr-up: 4
+
+[1718521799.698634] [INFO]:
+round_149:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718521850.718143] [INFO]:
+round_150:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718521905.332482] [INFO]:
+round_151:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718521958.382622] [INFO]:
+round_152:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522016.213138] [INFO]:
+round_153:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522066.965661] [INFO]:
+round_154:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522118.617597] [INFO]:
+round_155:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522170.416801] [INFO]:
+round_156:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522221.361481] [INFO]:
+round_157:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522272.335132] [INFO]:
+round_158:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522331.848163] [INFO]:
+round_159:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522476.660465] [INFO]:
+round_160:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522524.654272] [INFO]:
+round_161:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522576.347796] [INFO]:
+round_162:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522635.427644] [INFO]:
+round_163:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522684.147175] [INFO]:
+round_164:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522747.754101] [INFO]:
+round_165:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522801.380969] [INFO]:
+round_166:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522852.171691] [INFO]:
+round_167:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522908.18859] [INFO]:
+round_168:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718522960.002051] [INFO]:
+round_169:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523013.924081] [INFO]:
+round_170:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523070.09056] [INFO]:
+round_171:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523127.552666] [INFO]:
+round_172:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523176.331261] [INFO]:
+round_173:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523230.071251] [INFO]:
+round_174:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523372.782125] [INFO]:
+round_175:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523420.28883] [INFO]:
+round_176:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523486.6471] [INFO]:
+round_177:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523671.194216] [INFO]:
+round_178:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523719.666655] [INFO]:
+round_179:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523770.895887] [INFO]:
+round_180:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523839.002514] [INFO]:
+round_181:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523887.621151] [INFO]:
+round_182:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523940.409406] [INFO]:
+round_183:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718523992.260178] [INFO]:
+round_184:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524050.125426] [INFO]:
+round_185:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524141.564039] [INFO]:
+round_186:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524193.206254] [INFO]:
+round_187:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524342.321496] [INFO]:
+round_188:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524516.436296] [INFO]:
+round_189:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524564.463679] [INFO]:
+round_190:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524619.91235] [INFO]:
+round_191:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524690.772783] [INFO]:
+round_192:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524752.55806] [INFO]:
+round_193:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524804.93385] [INFO]:
+round_194:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524864.677306] [INFO]:
+round_195:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524922.292352] [INFO]:
+round_196:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718524971.114697] [INFO]:
+round_197:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718525125.512928] [INFO]:
+round_198:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718525174.403588] [INFO]:
+round_199:
+    concurrency-covr: 211
+    concurrency-covr-up: 0
+
+[1718525239.90519] [INFO]:
+round_200:
+    concurrency-covr: 216
+    concurrency-covr-up: 5
+
+[1718525334.410951] [INFO]:
+round_201:
+    concurrency-covr: 216
+    concurrency-covr-up: 0
+
+[1718525387.361767] [INFO]:
+round_202:
+    concurrency-covr: 216
+    concurrency-covr-up: 0
+
+[1718525440.461283] [INFO]:
+round_203:
+    concurrency-covr: 216
+    concurrency-covr-up: 0
+
+[1718525489.101516] [INFO]:
+round_204:
+    concurrency-covr: 216
+    concurrency-covr-up: 0
+
+[1718525541.082369] [INFO]:
+round_205:
+    concurrency-covr: 216
+    concurrency-covr-up: 0
+
+[1718525593.088149] [INFO]:
+round_206:
+    concurrency-covr: 216
+    concurrency-covr-up: 0
+
+[1718525645.958714] [INFO]:
+round_207:
+    concurrency-covr: 216
+    concurrency-covr-up: 0
+
+[1718525701.670249] [INFO]:
+round_208:
+    concurrency-covr: 216
+    concurrency-covr-up: 0
+
+[1718525758.595159] [INFO]:
+round_209:
+    concurrency-covr: 217
+    concurrency-covr-up: 1
+
+[1718525898.868497] [INFO]:
+round_210:
+    concurrency-covr: 217
+    concurrency-covr-up: 0
+
+[1718525949.867737] [INFO]:
+round_211:
+    concurrency-covr: 218
+    concurrency-covr-up: 1
+
+[1718526094.852769] [INFO]:
+round_212:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526147.394316] [INFO]:
+round_213:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526292.863288] [INFO]:
+round_214:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526341.47704] [INFO]:
+round_215:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526398.411979] [INFO]:
+round_216:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526446.568809] [INFO]:
+round_217:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526505.895881] [INFO]:
+round_218:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526559.004802] [INFO]:
+round_219:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526611.315393] [INFO]:
+round_220:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526754.285809] [INFO]:
+round_221:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526804.650314] [INFO]:
+round_222:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526859.710064] [INFO]:
+round_223:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526913.028647] [INFO]:
+round_224:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718526962.545219] [INFO]:
+round_225:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527020.708914] [INFO]:
+round_226:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527159.034343] [INFO]:
+round_227:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527208.454568] [INFO]:
+round_228:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527356.752017] [INFO]:
+round_229:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527406.69671] [INFO]:
+round_230:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527458.735904] [INFO]:
+round_231:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527607.503273] [INFO]:
+round_232:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527657.160062] [INFO]:
+round_233:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527802.960223] [INFO]:
+round_234:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527861.683774] [INFO]:
+round_235:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527913.092093] [INFO]:
+round_236:
+    concurrency-covr: 218
+    concurrency-covr-up: 0
+
+[1718527968.563997] [INFO]:
+round_237:
+    concurrency-covr: 248
+    concurrency-covr-up: 30
+
+[1718528344.849892] [INFO]:
+round_238:
+    concurrency-covr: 248
+    concurrency-covr-up: 0
+
+[1718528487.481793] [INFO]:
+round_239:
+    concurrency-covr: 248
+    concurrency-covr-up: 0
+
+[1718528533.152881] [INFO]:
+round_240:
+    concurrency-covr: 248
+    concurrency-covr-up: 0
+
+[1718528588.196104] [INFO]:
+round_241:
+    concurrency-covr: 248
+    concurrency-covr-up: 0
+
+[1718528635.131087] [INFO]:
+round_242:
+    concurrency-covr: 248
+    concurrency-covr-up: 0
+
+[1718528685.306033] [INFO]:
+round_243:
+    concurrency-covr: 272
+    concurrency-covr-up: 24
+
+[1718528770.04653] [INFO]:
+round_244:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718528815.810316] [INFO]:
+round_245:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718528869.680201] [INFO]:
+round_246:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718528920.703433] [INFO]:
+round_247:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718528967.570368] [INFO]:
+round_248:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529052.278695] [INFO]:
+round_249:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529098.008834] [INFO]:
+round_250:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529243.401677] [INFO]:
+round_251:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529289.315495] [INFO]:
+round_252:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529340.762265] [INFO]:
+round_253:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529427.521129] [INFO]:
+round_254:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529473.126983] [INFO]:
+round_255:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529650.511993] [INFO]:
+round_256:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529696.585475] [INFO]:
+round_257:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529780.432635] [INFO]:
+round_258:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718529921.085478] [INFO]:
+round_259:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530068.419988] [INFO]:
+round_260:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530118.067876] [INFO]:
+round_261:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530168.487004] [INFO]:
+round_262:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530250.21247] [INFO]:
+round_263:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530392.884677] [INFO]:
+round_264:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530531.635269] [INFO]:
+round_265:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530581.762663] [INFO]:
+round_266:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530629.256453] [INFO]:
+round_267:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530680.008205] [INFO]:
+round_268:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530742.470885] [INFO]:
+round_269:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530793.814703] [INFO]:
+round_270:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530844.194153] [INFO]:
+round_271:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718530895.89558] [INFO]:
+round_272:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718531033.380828] [INFO]:
+round_273:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718531079.664584] [INFO]:
+round_274:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718531134.604815] [INFO]:
+round_275:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718531189.00967] [INFO]:
+round_276:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718531242.531551] [INFO]:
+round_277:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718531379.161739] [INFO]:
+round_278:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718531429.126897] [INFO]:
+round_279:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718531481.468691] [INFO]:
+round_280:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718531531.019321] [INFO]:
+round_281:
+    concurrency-covr: 272
+    concurrency-covr-up: 0
+
+[1718531587.18782] [INFO]:
+round_282:
+    concurrency-covr: 274
+    concurrency-covr-up: 2
+
+[1718531731.062645] [INFO]:
+round_283:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718531777.913019] [INFO]:
+round_284:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718531927.629147] [INFO]:
+round_285:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718531973.891213] [INFO]:
+round_286:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532120.157757] [INFO]:
+round_287:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532167.494571] [INFO]:
+round_288:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532254.186072] [INFO]:
+round_289:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532396.236452] [INFO]:
+round_290:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532447.419896] [INFO]:
+round_291:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532497.992135] [INFO]:
+round_292:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532546.003402] [INFO]:
+round_293:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532696.945911] [INFO]:
+round_294:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532756.645342] [INFO]:
+round_295:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532807.624031] [INFO]:
+round_296:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718532862.283372] [INFO]:
+round_297:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533013.22245] [INFO]:
+round_298:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533099.126934] [INFO]:
+round_299:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533147.012068] [INFO]:
+round_300:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533204.371308] [INFO]:
+round_301:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533257.974025] [INFO]:
+round_302:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533310.549139] [INFO]:
+round_303:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533363.018926] [INFO]:
+round_304:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533419.706895] [INFO]:
+round_305:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533470.686737] [INFO]:
+round_306:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533615.124795] [INFO]:
+round_307:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533663.375471] [INFO]:
+round_308:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533719.288403] [INFO]:
+round_309:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533864.123991] [INFO]:
+round_310:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533915.139798] [INFO]:
+round_311:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718533964.202662] [INFO]:
+round_312:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534019.189108] [INFO]:
+round_313:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534070.870943] [INFO]:
+round_314:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534126.568655] [INFO]:
+round_315:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534183.418887] [INFO]:
+round_316:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534341.230412] [INFO]:
+round_317:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534388.798831] [INFO]:
+round_318:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534446.618491] [INFO]:
+round_319:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534500.197946] [INFO]:
+round_320:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534556.990907] [INFO]:
+round_321:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534698.347326] [INFO]:
+round_322:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534846.799658] [INFO]:
+round_323:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534899.131148] [INFO]:
+round_324:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718534950.725226] [INFO]:
+round_325:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535107.142056] [INFO]:
+round_326:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535155.35243] [INFO]:
+round_327:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535209.21775] [INFO]:
+round_328:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535281.678231] [INFO]:
+round_329:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535335.918167] [INFO]:
+round_330:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535402.598009] [INFO]:
+round_331:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535457.398861] [INFO]:
+round_332:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535508.543607] [INFO]:
+round_333:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535558.733648] [INFO]:
+round_334:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535726.613742] [INFO]:
+round_335:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535776.010503] [INFO]:
+round_336:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535835.624109] [INFO]:
+round_337:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718535982.331832] [INFO]:
+round_338:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536031.257877] [INFO]:
+round_339:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536085.677875] [INFO]:
+round_340:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536139.549366] [INFO]:
+round_341:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536194.386998] [INFO]:
+round_342:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536283.072961] [INFO]:
+round_343:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536335.84988] [INFO]:
+round_344:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536385.190957] [INFO]:
+round_345:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536535.892939] [INFO]:
+round_346:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536585.800393] [INFO]:
+round_347:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536637.753644] [INFO]:
+round_348:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536785.467773] [INFO]:
+round_349:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536834.897997] [INFO]:
+round_350:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536891.777405] [INFO]:
+round_351:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536945.382137] [INFO]:
+round_352:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718536996.520505] [INFO]:
+round_353:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537144.730375] [INFO]:
+round_354:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537194.370545] [INFO]:
+round_355:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537252.458386] [INFO]:
+round_356:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537413.641437] [INFO]:
+round_357:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537462.331831] [INFO]:
+round_358:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537515.919211] [INFO]:
+round_359:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537659.309084] [INFO]:
+round_360:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537749.350087] [INFO]:
+round_361:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537839.384276] [INFO]:
+round_362:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537889.475102] [INFO]:
+round_363:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537944.672983] [INFO]:
+round_364:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718537997.825195] [INFO]:
+round_365:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538142.356181] [INFO]:
+round_366:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538191.894064] [INFO]:
+round_367:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538330.825736] [INFO]:
+round_368:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538380.950183] [INFO]:
+round_369:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538432.682677] [INFO]:
+round_370:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538491.735263] [INFO]:
+round_371:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538541.289974] [INFO]:
+round_372:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538595.460099] [INFO]:
+round_373:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538647.867566] [INFO]:
+round_374:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538793.039663] [INFO]:
+round_375:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538843.44453] [INFO]:
+round_376:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538898.570525] [INFO]:
+round_377:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718538953.897981] [INFO]:
+round_378:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539021.426384] [INFO]:
+round_379:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539081.754484] [INFO]:
+round_380:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539131.471752] [INFO]:
+round_381:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539190.031685] [INFO]:
+round_382:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539241.225716] [INFO]:
+round_383:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539297.56933] [INFO]:
+round_384:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539347.430652] [INFO]:
+round_385:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539400.509894] [INFO]:
+round_386:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539542.856785] [INFO]:
+round_387:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539681.203613] [INFO]:
+round_388:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539731.194326] [INFO]:
+round_389:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539787.92149] [INFO]:
+round_390:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539845.457899] [INFO]:
+round_391:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539925.342868] [INFO]:
+round_392:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718539975.886737] [INFO]:
+round_393:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540116.064886] [INFO]:
+round_394:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540165.244456] [INFO]:
+round_395:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540222.380543] [INFO]:
+round_396:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540319.528996] [INFO]:
+round_397:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540458.290546] [INFO]:
+round_398:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540509.185648] [INFO]:
+round_399:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540652.087219] [INFO]:
+round_400:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540703.161231] [INFO]:
+round_401:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540756.462638] [INFO]:
+round_402:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540811.684321] [INFO]:
+round_403:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718540953.040888] [INFO]:
+round_404:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541090.705994] [INFO]:
+round_405:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541140.982497] [INFO]:
+round_406:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541197.228708] [INFO]:
+round_407:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541254.317552] [INFO]:
+round_408:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541306.575732] [INFO]:
+round_409:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541367.915795] [INFO]:
+round_410:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541422.590113] [INFO]:
+round_411:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541515.751578] [INFO]:
+round_412:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541566.240989] [INFO]:
+round_413:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541623.654269] [INFO]:
+round_414:
+    concurrency-covr: 274
+    concurrency-covr-up: 0
+
+[1718541677.854355] [INFO]:
+round_415:
+    concurrency-covr: 285
+    concurrency-covr-up: 11
+
+[1718541739.024419] [INFO]:
+round_416:
+    concurrency-covr: 285
+    concurrency-covr-up: 0
+
+[1718541791.118225] [INFO]:
+round_417:
+    concurrency-covr: 285
+    concurrency-covr-up: 0
+
+[1718541860.067645] [INFO]:
+round_418:
+    concurrency-covr: 285
+    concurrency-covr-up: 0
+
+[1718542006.556863] [INFO]:
+round_419:
+    concurrency-covr: 285
+    concurrency-covr-up: 0
+
+[1718542061.62465] [INFO]:
+round_420:
+    concurrency-covr: 285
+    concurrency-covr-up: 0
+
+[1718542113.360682] [INFO]:
+round_421:
+    concurrency-covr: 285
+    concurrency-covr-up: 0
+
+[1718542169.95739] [INFO]:
+round_422:
+    concurrency-covr: 285
+    concurrency-covr-up: 0
+
+[1718542228.393515] [INFO]:
+round_423:
+    concurrency-covr: 285
+    concurrency-covr-up: 0
+
+[1718542286.540001] [INFO]:
+round_424:
+    concurrency-covr: 285
+    concurrency-covr-up: 0
+
+[1718542467.802448] [INFO]:
+round_425:
+    concurrency-covr: 285
+    concurrency-covr-up: 0
+
+[1718542518.53035] [INFO]:
+round_426:
+    concurrency-covr: 312
+    concurrency-covr-up: 27
+
+[1718542629.177534] [INFO]:
+round_427:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718542685.847089] [INFO]:
+round_428:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718542739.185778] [INFO]:
+round_429:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718542799.516584] [INFO]:
+round_430:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718542856.023034] [INFO]:
+round_431:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718542915.307218] [INFO]:
+round_432:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718542983.709971] [INFO]:
+round_433:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543038.779972] [INFO]:
+round_434:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543090.706299] [INFO]:
+round_435:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543263.869067] [INFO]:
+round_436:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543319.390453] [INFO]:
+round_437:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543374.160057] [INFO]:
+round_438:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543522.967218] [INFO]:
+round_439:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543574.316639] [INFO]:
+round_440:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543631.136787] [INFO]:
+round_441:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543685.261168] [INFO]:
+round_442:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543745.931246] [INFO]:
+round_443:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543802.19997] [INFO]:
+round_444:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543854.50656] [INFO]:
+round_445:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543911.329006] [INFO]:
+round_446:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718543965.994338] [INFO]:
+round_447:
+    concurrency-covr: 312
+    concurrency-covr-up: 0
+
+[1718544021.032538] [INFO]:
+round_448:
+    concurrency-covr: 323
+    concurrency-covr-up: 11
+
+[1718544080.55441] [INFO]:
+round_449:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718544134.829308] [INFO]:
+round_450:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718544308.31214] [INFO]:
+round_451:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718544361.487126] [INFO]:
+round_452:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718544507.338305] [INFO]:
+round_453:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718544559.299975] [INFO]:
+round_454:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718544617.052358] [INFO]:
+round_455:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718544770.545589] [INFO]:
+round_456:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718544822.992646] [INFO]:
+round_457:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718544879.514493] [INFO]:
+round_458:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718544934.895672] [INFO]:
+round_459:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545084.404408] [INFO]:
+round_460:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545135.643713] [INFO]:
+round_461:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545193.566419] [INFO]:
+round_462:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545255.918918] [INFO]:
+round_463:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545308.414284] [INFO]:
+round_464:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545366.355864] [INFO]:
+round_465:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545421.727665] [INFO]:
+round_466:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545484.684529] [INFO]:
+round_467:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545539.177551] [INFO]:
+round_468:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545597.726689] [INFO]:
+round_469:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545656.33725] [INFO]:
+round_470:
+    concurrency-covr: 323
+    concurrency-covr-up: 0
+
+[1718545714.124928] [INFO]:
+round_471:
+    concurrency-covr: 365
+    concurrency-covr-up: 42
+
