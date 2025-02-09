@@ -1,0 +1,14 @@
+FUZZER_NAME: ROCF
+FUZZ_HOME: /home/ubuntu2204-humble/ROCF
+INIT_SEED_DIR: init_seed_pool
+ROS_HOME: /opt/ros/humble
+TestedStation: ../bin
+DurationEachround: 60.0
+asan_switch: 'halt_on_error=0:new_delete_type_mismatch=0:detect_leaks=0:'
+LoggerWeb: false
+log_round_dir: fuzz_log/log_round
+log_class_dir: fuzz_log/log_classified
+if_flag_log_clean: true
+launchers:
+- ros2 launch ..
+- ros2 run ..

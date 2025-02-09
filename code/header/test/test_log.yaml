@@ -1,0 +1,22 @@
+FUZZER_NAME: ROCF
+FUZZ_HOME: /home/goes/ROS_Workstation/ROS_fuzzer/ROCF
+INIT_SEED_DIR: /home/goes/ROS_Workstation/ROS_fuzzer/ROCF/TestStation/nav2_teststation/init_seed_pool
+ROS_HOME: /opt/ros/humble
+TestedStation: /home/goes/ROS_Workstation/ROS_fuzzer/ROCF/TestStation/nav2_teststation
+DurationEachround: 60.0
+asan_switch: 'halt_on_error=0:new_delete_type_mismatch=0:detect_leaks=0:'
+monitor_wait_clean_timeout: 20
+monitor_if_ros2_killer: false
+LoggerWeb: false
+log_round_dir: /home/goes/ROS_Workstation/ROS_fuzzer/ROCF/TestStation/nav2_teststation/fuzz_log/log_round
+log_class_dir: /home/goes/ROS_Workstation/ROS_fuzzer/ROCF/TestStation/nav2_teststation/fuzz_log/log_classified
+if_flag_log_clean: true
+LaunchCommands:
+- base_cmd: ros2 launch nav2_bringup tb3_simulation_launch.py headless:=False use_rviz:=True
+  fuzzed_args:
+  - arg_name: use_composition
+    arg_value: 'true'
+  - arg_name: x
+    arg_value: '3'
+  - arg_name: echo "hello ROCF"
+    arg_value: ''
