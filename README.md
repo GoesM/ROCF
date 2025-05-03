@@ -1,6 +1,12 @@
+以下是润色后的文档版本：
+
+---
+
 # ROCF
 
 **Detecting Lifecycle-Related Concurrency Bugs in ROS Programs via Coverage-Guided Fuzzing**
+
+---
 
 ## Experimental Environment
 
@@ -8,27 +14,33 @@
 * **Robot Operating System (ROS)**: ROS 2 Humble or later
 * **Physical Memory**: 64 GB
 
-**Note**: ROCF is verified to support testing ROS programs across any ROS 2 version.
+**Note**: ROCF is compatible with testing ROS programs across all ROS 2 versions.
+
+---
 
 ## Usage
 
 1. **Update and Upgrade System Packages**:
-    ```bash
-    sudo apt-get update  
-    sudo apt-get upgrade  
-    ```
 
-2. **Set Up Environment**:
-    * Correctly build ROS 2 Humble.
-    * Correctly build your target ROS programs.
+   Run the following commands to ensure your system is up-to-date:
 
-3. **Edit Configuration File**:
+   ```bash
+   sudo apt-get update  
+   sudo apt-get upgrade  
+   ```
 
-   Modify the configuration file located at `bin/fuzzer_config.yaml` to suit your testing needs.
+2. **Set Up the Environment**:
 
-4. **Run the Fuzzer**:
+   * Ensure ROS 2 Humble is built correctly.
+   * Build the target ROS programs that you intend to test.
 
-   Execute the following commands:
+3. **Configure the Fuzzer**:
+
+   Edit the configuration file located at `bin/fuzzer_config.yaml` to tailor it to your testing requirements.
+
+4. **Run ROCF**:
+
+   Execute the following commands to start fuzzing:
 
    ```bash
    cd bin/  
@@ -37,7 +49,12 @@
 
 5. **Review Logs**:
 
-   The logs will be saved in the `bin/fuzz_log` folder, which is automatically created by ROCF.
+   Fuzzing logs are automatically saved in the `bin/fuzz_log` folder for your review and analysis.
+
+**Additional Note**:
+- We provide sample implementations of ROCF's core techniques to serve as a reference or as plugins for integration into your own fuzzing framework. 
+- Given the potential impact of specific implementation tricks on experimental outcomes, we strongly encourage readers to reproduce the algorithm as described in our paper. 
+- This allows you to explore and validate how various implementation choices influence ROCF's performance under different configurations.
 
 
 # Found Lifecycle-Related Concurrency Bugs
