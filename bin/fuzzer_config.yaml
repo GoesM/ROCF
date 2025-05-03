@@ -1,0 +1,14 @@
+FUZZER_NAME: "ROCF"
+FUZZ_HOME: "/home/ubuntu2204-humble/ROS_Workstation/ROCF/" # "/path/to/ROCF"
+
+# configuration for launching target program
+launch_cmd: "export TURTLEBOT3_MODEL=waffle && export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/opt/ros/humble/share/turtlebot3_gazebo/models && source /home/ubuntu2204-humble/ROS_Workstation/humble_ws/install/setup.bash && ros2 launch nav2_bringup tb3_simulation_launch.py use_composition:=False headless:=True"
+TESTSTATION: "/home/ubuntu2204-humble/ROS_Workstation/humble_ws/" # for gcovr & usr_input 's work
+
+# configuration for Instrumentation:
+asan_switch: "halt_on_error=0:new_delete_type_mismatch=0:detect_leaks=0:detect_odr_violation=0:" 
+
+# configuration for seeds
+INIT_SEED_DIR: "seed_pool" # params.yaml + input sequence + delay array
+seed_cherry_pick_ratio: 100 # cherry pick valuable seeds per 100 tests
+if_mutate_param_yaml: False # this setting avoid params.yaml mutation
