@@ -1,7 +1,3 @@
-以下是润色后的文档版本：
-
----
-
 # ROCF
 
 **Detecting Lifecycle-Related Concurrency Bugs in ROS Programs via Coverage-Guided Fuzzing**
