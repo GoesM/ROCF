@@ -2,6 +2,20 @@
 
 **Detecting Lifecycle-Related Concurrency Bugs in ROS Programs via Coverage-Guided Fuzzing**
 
+### Citation
+```bib
+@ARTICLE{11095749,
+  author={Gao, Si-Miao and Wang, Pengcheng and Bai, Jia-Ju and Yu, Jia-Wei and Wang, Haizhou},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Detecting Lifecycle-Related Concurrency Bugs in ROS Programs via Coverage-Guided Fuzzing}, 
+  year={2025},
+  volume={20},
+  number={},
+  pages={7940-7953},
+  keywords={Computer bugs;Concurrent computing;Fuzzing;Instruction sets;Robots;Resource management;Security;Operating systems;Electronic mail;Codes;Robotic operating system;lifecycle;coverage-guided fuzzing;thread interleaving;concurrency bug},
+  doi={10.1109/TIFS.2025.3592562}}
+```
+
 ---
 
 ## Experimental Environment
